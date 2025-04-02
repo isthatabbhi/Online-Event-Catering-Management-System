@@ -1,4 +1,4 @@
-# isthatabbhi-Online-Event-Catering-Management-System
+# Online Event Catering Management System
 Online Event Catering Management System
 
 Introduction
@@ -7,27 +7,47 @@ The Online Event Catering Management System is a comprehensive platform designed
 
 Technologies Used
 
-Frontend: HTML, CSS, JavaScript
+Frontend
 
-Backend: PHP
+HTML
 
-Database: MySQL
+CSS
+
+JavaScript
+
+Backend
+
+PHP
+
+Database
+
+MySQL
 
 Features
 
-User Management: Registration, login, and profile management.
+User Management
 
-Event Management: Event creation, scheduling, and customization.
+Registration, login, and profile management.
 
-Catering Management: Menu customization, order tracking.
+Event Management
 
-Admin Management: User account management, performance monitoring.
+Event creation, scheduling, and customization.
 
-Order Management: Menu selection, checkout, order tracking.
+Catering Management
+
+Menu customization, order tracking.
+
+Admin Management
+
+User account management, performance monitoring.
+
+Order Management
+
+Menu selection, checkout, order tracking.
 
 System Requirements
 
-Hardware:
+Hardware
 
 Processor: 64-bit, Core i3
 
@@ -37,7 +57,7 @@ Hard Disk: 500 GB
 
 Monitor: SVGA (1366 x 768 resolution)
 
-Software:
+Software
 
 Operating System: Windows 2007
 
@@ -75,3 +95,5 @@ Author
 
 Abhishek Kumar
 BCA VI Sem, Aryabhatta Knowledge University, Patna (Session: 2021-24)
+
+
