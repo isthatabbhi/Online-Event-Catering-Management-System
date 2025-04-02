@@ -1,7 +1,5 @@
 # Online Event Catering Management System
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Online+Event+Catering+Management+System)
-
 A web-based solution designed to automate catering management processes for events. Built with modern web technologies to streamline event planning, menu customization, order tracking, and client interactions.
 
 ---
