@@ -1,99 +1,54 @@
 # Online Event Catering Management System
-Online Event Catering Management System
 
-Introduction
+![Project Banner](https://via.placeholder.com/800x200.png?text=Online+Event+Catering+Management+System)
 
-The Online Event Catering Management System is a comprehensive platform designed to streamline and simplify the process of managing catering services for events. It automates redundant tasks, provides a user-friendly interface, and maintains a central database to ensure efficiency. The system is cost-effective and aims to optimize the catering business process.
+A web-based solution designed to automate catering management processes for events. Built with modern web technologies to streamline event planning, menu customization, order tracking, and client interactions.
 
-Technologies Used
+---
 
-Frontend
+## 📝 Description  
+This system simplifies catering management by automating tasks like event scheduling, menu customization, order tracking, and user management. It uses **HTML, CSS, and JavaScript** for the front-end, **PHP** for server-side logic, and **MySQL** for database management. Key objectives include:  
+- User-friendly interface  
+- Centralized database for efficient data management  
+- Automation of repetitive tasks  
+- Cost-effective and scalable solution  
 
-HTML
+---
 
-CSS
+## ✨ Features  
+### Functional Requirements  
+- **User Management**: Registration, login, and profile updates.  
+- **Event Management**: Create/edit events, calendar integration, notifications.  
+- **Catering Management**: Customize menus, track orders, generate bills.  
+- **Admin Dashboard**: Manage users, monitor orders, and view statistics.  
 
-JavaScript
+### Non-Functional Requirements  
+- **Performance**: Fast response time and high availability.  
+- **Security**: Authentication and secure data storage.  
+- **Scalability**: Supports growing user base.  
+- **Compatibility**: Works across browsers and devices.  
 
-Backend
+---
 
-PHP
+## 🛠️ Technologies Used  
+### Front-End  
+- HTML  
+- CSS  
+- JavaScript  
 
-Database
+### Back-End  
+- PHP  
+- MySQL  
 
-MySQL
+### Tools & Environment  
+- **IDE**: VS Code  
+- **Server**: WAMP Server  
+- **OS**: Windows 2007  
+- **Hardware**: 64-bit Core i3, 4GB RAM, 500GB HDD  
 
-Features
+---
 
-User Management
-
-Registration, login, and profile management.
-
-Event Management
-
-Event creation, scheduling, and customization.
-
-Catering Management
-
-Menu customization, order tracking.
-
-Admin Management
-
-User account management, performance monitoring.
-
-Order Management
-
-Menu selection, checkout, order tracking.
-
-System Requirements
-
-Hardware
-
-Processor: 64-bit, Core i3
-
-RAM: 4 GB
-
-Hard Disk: 500 GB
-
-Monitor: SVGA (1366 x 768 resolution)
-
-Software
-
-Operating System: Windows 2007
-
-Frontend: HTML, CSS, JavaScript
-
-Backend/Server: PHP
-
-Database Server: MySQL
-
-Server: WAMP
-
-IDE: VS Code
-
-How to Run
-
-Install WAMP Server and VS Code.
-
-Clone the repository.
-
-Set up the database using MySQL.
-
-Configure the PHP files to connect to the database.
-
-Start the WAMP server and access the application via a web browser.
-
-Future Scope
-
-Integration of advanced data analytics for better insights.
-
-Enhanced security measures.
-
-Support for multiple languages and cross-device compatibility.
-
-Author
-
-Abhishek Kumar
-BCA VI Sem, Aryabhatta Knowledge University, Patna (Session: 2021-24)
-
-
+## 🚀 Installation  
+1. **Clone the repository**:  
+   ```bash
+   git clone https://github.com/yourusername/online-catering-system.git
